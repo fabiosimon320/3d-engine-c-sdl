@@ -1,6 +1,6 @@
 # 3D Engine in C using SDL2
 
-A lightweight **software 3D engine** written in **C** using **SDL2**, designed for educational and experimental purposes. The engine includes core 3D graphics features like projection, transformation, camera movement, triangle rasterization, and basic clipping — all without OpenGL or hardware acceleration.
+A basic **software 3D engine** written in **C** using **SDL2**, only for educational  purposes. The engine includes core 3D graphics features like projection, transformation, camera movement, triangle rasterization, and basic clipping.
 
 ---
 
